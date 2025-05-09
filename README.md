@@ -1,9 +1,9 @@
 ## Olá, tudo bem? 👋
 
-- 🔭 Faço Engenharia de Software ...
-- 🌱 Estudo na UniCEUB ...
-- 👯 Estou estudando algumas linguagens de programação ...
-- 🤔 I’m looking for help with ...
+- 🔭 Faço Engenharia de Software
+- 🎒 Estudo na UniCEUB
+- 📚 Estou estudando algumas linguagens de programação
+- 🖥️ Sempre em busca de aprender algo novo! 
 
 <!--
 **gabxnz/gabxnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
