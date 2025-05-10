@@ -17,12 +17,14 @@
 
 ## Entre em contato comigo!
 
-<a href="https://www.linkedin.com/in/gabxnz/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://www.instagram.com/seu-usuario/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/seu-usuario/" target="_blank" style="text-decoration: none; display: inline-block;">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/seu-usuario/" target="_blank" style="text-decoration: none; display: inline-block;">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 
 
 
