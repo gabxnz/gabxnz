@@ -9,31 +9,10 @@
   <img src="https://streak-stats.demolab.com?user=gabxnz&locale=en&mode=daily&title_color=cccccc&text_color=cccccc&ring=cccccc&fire=cccccc&currStreakLabel=cccccc&sideNums=cccccc&sideLabels=cccccc&dates=cccccc&background=000000&hide_border=false&border_radius=4" height="152" alt="streak graph"  />
 </div>
 
-name: Generate Snake Animation
+## 🐍 Snake de contribuições
 
-on:
-  schedule:
-    - cron: "0 0 * * *" # Roda todo dia à meia-noite
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: gabxnz
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Commit animation
-        uses: EndBug/add-and-commit@v9
-        with:
-          message: "generated snake animation"
-          add: "dist/*.svg"
-
+![snake gif](https://github.com/gabxnz/gabxnz/blob/output/dist/github-contribution-grid-snake.svg)
+ 
 ## Linguagens em aprendizado  
 <span>
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline;">
