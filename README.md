@@ -9,9 +9,6 @@
   <img src="https://streak-stats.demolab.com?user=gabxnz&locale=en&mode=daily&title_color=cccccc&text_color=cccccc&ring=cccccc&fire=cccccc&currStreakLabel=cccccc&sideNums=cccccc&sideLabels=cccccc&dates=cccccc&background=000000&hide_border=false&border_radius=4" height="152" alt="streak graph"  />
 </div>
 
-## 🐍 Snake de contribuições
-
-![snake gif](https://github.com/gabxnz/gabxnz/blob/output/dist/github-contribution-grid-snake.svg)
  
 ## Linguagens em aprendizado  
 <span>
