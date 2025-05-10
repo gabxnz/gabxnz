@@ -17,14 +17,15 @@
 
 ## Entre em contato comigo!
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/seu-usuario/" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<p align="center">
+  <a href="https://www.linkedin.com/in/seuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/seu-usuario/" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  <a href="https://www.instagram.com/seuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
+
 
 
 
