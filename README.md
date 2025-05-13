@@ -1,8 +1,8 @@
 ## Olá, tudo bem? 👋
 
-- 🔭 Faço Engenharia de Software
-- 🎒 Estudo na UniCEUB
-- 📚 Estou estudando algumas linguagens de programação
+- 🔭 Faço Engenharia de Software.
+- 🎒 Estudo na UniCEUB.
+- 📚 Estou estudando algumas linguagens de programação.
 - 🖥️ Sempre em busca de aprender algo novo! 
 
 
