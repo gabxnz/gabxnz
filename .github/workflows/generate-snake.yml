@@ -1,4 +1,7 @@
-name: Generate Snake Animation
+name: Generate Snake
+
+permissions:
+  contents: write
 
 on:
   schedule:
@@ -6,19 +9,21 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
+
+      - name: Generate snake SVG
+        uses: Platane/snk@v3
         with:
           github_user_name: gabxnz
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Commit animation
-        uses: EndBug/add-and-commit@v9
+      - name: Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
-          message: "generated snake animation"
-          add: "dist/*.svg"
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
