@@ -12,6 +12,7 @@
 </div>
 
 ![Snake animation](https://github.com/gabxnz/gabxnz/blob/output/github-contribution-grid-snake.svg)
+
  
 ## Linguagens em aprendizado  
 <span>
